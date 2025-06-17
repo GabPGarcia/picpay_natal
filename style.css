@@ -30,3 +30,23 @@ a {
 .negrito {
     font-weight: bolder;
 }
+
+.verde {
+    color: #11c76f;
+}
+
+.texto-maior {
+    font-size: large;
+}
+
+#entre-linhas {
+    font-size: small;
+}
+
+#dez-reais {
+    font-weight: bold;
+}
+
+#redes {
+    margin-bottom: 35px;
+}
